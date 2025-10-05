@@ -1,0 +1,11 @@
+llama-index
+openai
+langchain
+langchain_community
+chromadb
+llama-index-vector-stores-chroma
+llama-hub
+streamlit
+python-dotenv
+llama-index-agent-openai
+openai
