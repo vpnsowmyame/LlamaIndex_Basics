@@ -8,5 +8,5 @@ Here is a consolidated list of the tasks i performed using LlamaIndex framework:
 4. **Contextual Chat**: Utilized the ChatEngine with the condense_question chat mode to ensure the LLM maintains conversation history and context across multiple turns.
 
 <p align="center">
-    <img src="https://github.com/vpnsowmyame/LlamaIndex_Basics/blob/main/Llamaindex.png" width="900px" alt="Unwind AI">
+    <img src="https://github.com/vpnsowmyame/LlamaIndex_Basics/blob/main/llamaindex.png" width="900px" alt="Unwind AI">
 </p>
